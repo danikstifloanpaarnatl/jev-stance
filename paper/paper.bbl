@@ -1,0 +1,200 @@
+\begin{thebibliography}{10}
+
+\bibitem{allaway2020vast}
+Emily Allaway and Kathleen McKeown.
+\newblock Zero-shot stance detection: A dataset and model using generalized
+  topic representations.
+\newblock In {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 8913--8931. Association for
+  Computational Linguistics, 2020.
+
+\bibitem{chen2024bgem3}
+Jianlv Chen, Shitao Xiao, Peitian Zhang, Kun Luo, Defu Lian, and Zheng Liu.
+\newblock {BGE} {M3}-embedding: Multi-lingual, multi-functionality,
+  multi-granularity text embeddings through self-knowledge distillation.
+\newblock {\em arXiv preprint arXiv:2402.03216}, 2024.
+
+\bibitem{debenedetti2024agentdojo}
+Edoardo Debenedetti et~al.
+\newblock Agentdojo: A dynamic environment to evaluate prompt injection attacks
+  and defenses for llm agents.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2024.
+
+\bibitem{greshake2023indirect}
+Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten
+  Holz, and Mario Fritz.
+\newblock Not what you've signed up for: Compromising real-world
+  {LLM}-integrated applications with indirect prompt injection.
+\newblock {\em arXiv preprint arXiv:2302.12173}, 2023.
+
+\bibitem{jevforest2026}
+{jevforest contributors}.
+\newblock jevforest: Bagged information-gain trees for budgeted feature
+  acquisition.
+\newblock Software repository, 2026.
+\newblock Version 0.1.0, commit bd969d0; accessed 2026-10-19.
+
+\bibitem{jevtree2026}
+{jevtree contributors}.
+\newblock jevtree: Data and natural-language goals to auditable decision trees
+  and exported decision specifications.
+\newblock Software repository, 2026.
+\newblock Version 0.1.0, commit 4f90913; accessed 2026-10-19.
+
+\bibitem{lan2024cola}
+Xiaochong Lan, Chen Gao, Depeng Jin, and Yong Li.
+\newblock Stance detection with collaborative role-infused {LLM}-based agents.
+\newblock {\em arXiv preprint arXiv:2310.10467}, 2024.
+
+\bibitem{li2024factual}
+Ang Li, Jingqian Zhao, Bin Liang, Lin Gui, Hui Wang, Xi~Zeng, Kam-Fai Wong, and
+  Ruifeng Xu.
+\newblock Mitigating biases of large language models in stance detection with
+  counterfactual augmented calibration.
+\newblock {\em arXiv preprint arXiv:2402.14296}, 2024.
+
+\bibitem{li2021pstance}
+Yingjie Li, Tiberiu Sosea, Aditya Sawant, Ajith~Jayaraman Nair, Diana Inkpen,
+  and Cornelia Caragea.
+\newblock {P}-stance: A large dataset for stance detection in political domain.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL-IJCNLP 2021}, pages 2355--2365. Association for Computational
+  Linguistics, 2021.
+
+\bibitem{liang2022jointcl}
+Bin Liang, Qinglin Zhu, Xiang Li, Min Yang, Lin Gui, Yulan He, and Ruifeng Xu.
+\newblock {JointCL}: A joint contrastive learning framework for zero-shot
+  stance detection.
+\newblock In {\em Proceedings of the 60th Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)}, pages 81--91. Association
+  for Computational Linguistics, 2022.
+
+\bibitem{liu2019roberta}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer
+  Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov.
+\newblock {RoBERTa}: A robustly optimized {BERT} pretraining approach.
+\newblock {\em arXiv preprint arXiv:1907.11692}, 2019.
+
+\bibitem{mohammad2016semeval}
+Saif Mohammad, Svetlana Kiritchenko, Parinaz Sobhani, Xiaodan Zhu, and Colin
+  Cherry.
+\newblock {SemEval}-2016 task 6: Detecting stance in tweets.
+\newblock In {\em Proceedings of the 10th International Workshop on Semantic
+  Evaluation (SemEval-2016)}, pages 31--41. Association for Computational
+  Linguistics, 2016.
+
+\bibitem{openrouter2026jev}
+{OpenRouter}.
+\newblock Jev tutorial: Make your first decision call.
+\newblock \url{https://openrouter.ai/docs/guides/community/jev-tutorial}, 2026.
+\newblock Accessed: 2026-10-18.
+
+\bibitem{souly2024strongreject}
+Alexandra Souly, Qingyuan Lu, Dillon Bowen, Tu~Trinh, Elvis Hsieh, Sana Pandey,
+  Pieter Abbeel, Justin Svegliato, Scott Emmons, Olivia Watkins, and Sam Toyer.
+\newblock A {StrongREJECT} for empty jailbreaks.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2024.
+
+\bibitem{typesafe2026jev}
+{TypeSafe AI}.
+\newblock Jev documentation.
+\newblock \url{https://docs.typesafe.ai/concepts/system-one}, 2026.
+\newblock Accessed: 2026-10-18.
+
+\bibitem{typesafe2026systemone}
+{TypeSafe AI}.
+\newblock System one: Typed decisions for agents.
+\newblock \url{https://docs.typesafe.ai/concepts/system-one}, 2026.
+\newblock Accessed: 2026-10-18.
+
+\bibitem{wei2022cot}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
+  Ed~Chi, Quoc Le, and Denny Zhou.
+\newblock Chain-of-thought prompting elicits reasoning in large language
+  models.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2022.
+
+\bibitem{wu2026decisionhijacking}
+Tiantong Wu and Wei Yang~Bryan Lim.
+\newblock Decision hijacking: Prompt injection attacks on {Jev}'s typed
+  probabilistic decisions.
+\newblock {\em arXiv preprint arXiv:2609.28613}, 2026.
+
+\bibitem{yan2026red}
+Yu~Yan, Sheng Sun, Shengjia Cheng, Teli Liu, Mingfeng Li, and Min Liu.
+\newblock Red-teaming the multimodal reasoning: Jailbreaking vision-language
+  models via cross-modal entanglement attacks.
+\newblock {\em arXiv preprint arXiv:2602.10148}, 2026.
+
+\bibitem{yan2025benign}
+Yu~Yan, Sheng Sun, Zenghao Duan, Teli Liu, Min Liu, Zhiyi Yin, Jingyu Lei, and
+  Qi~Li.
+\newblock from benign import toxic: Jailbreaking the language model via
+  adversarial metaphors.
+\newblock In {\em Proceedings of the 63rd Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)}, pages 4785--4817.
+  Association for Computational Linguistics, 2025.
+
+\bibitem{yan2025poisonswarm}
+Yu~Yan, Sheng Sun, Mingfeng Li, Yunlong Song, Xingzhou Zhang, Linran Lu, Zhifei
+  Zheng, Min Liu, and Qi~Li.
+\newblock {Jailbreak-as-a-Service++}: Unveiling distributed ai-driven malicious
+  information campaigns powered by llm crowdsourcing.
+\newblock arXiv preprint arXiv:2505.21184, 2025.
+\newblock System named PoisonSwarm.
+
+\bibitem{yan2026searchattack}
+Yu~Yan, Sheng Sun, Mingfeng Li, Zheming Yang, Chiwei Zhu, Fei Ma, Benfeng Xu,
+  and Min Liu.
+\newblock Searchattack: Red-teaming llms against real-world threats via framing
+  unsafe web information-seeking tasks.
+\newblock arXiv preprint arXiv:2601.04093, 2026.
+
+\bibitem{yan2025cover}
+Yu~Yan, Sheng Sun, Zixiang Tang, Teli Liu, and Min Liu.
+\newblock Collaborative stance detection via small-large language model
+  consistency verification.
+\newblock In {\em Database Systems for Advanced Applications (DASFAA)}, 2025.
+\newblock arXiv:2502.19954.
+
+\bibitem{yan2025confusion}
+Yu~Yan, Sheng Sun, Zhe Wang, Yijun Lin, Zenghao Duan, Zhifei Zheng, Min Liu,
+  Zhiyi Yin, Jianping Zhang, et~al.
+\newblock Confusion is the final barrier: Rethinking jailbreak evaluation and
+  investigating the real misuse threat of {LLMs}.
+\newblock In {\em Findings of the 2025 Conference on Empirical Methods in
+  Natural Language Processing}, 2025.
+
+\bibitem{yi2025bipia}
+Jingwei Yi, Yueqi Xie, Bin Zhu, Emre Kiciman, Guangzhong Sun, Xing Xie, and
+  Fangzhao Wu.
+\newblock Benchmarking and defending against indirect prompt injection attacks
+  on large language models.
+\newblock {\em ACM Transactions on Information Systems}, 2025.
+
+\bibitem{zhan2024in}
+Qiusi Zhan, Zhixiang Liang, Zifan Ying, and Daniel Kang.
+\newblock Injecagent: Benchmarking indirect prompt injections in
+  tool-integrated large language model agents.
+\newblock In {\em Proceedings of the 2024 Conference on Language Modeling},
+  2024.
+
+\bibitem{zhang2022chatgptstance}
+Bowen Zhang, Daijun Ding, and Liwen Jing.
+\newblock How would stance detection techniques evolve after the launch of
+  {ChatGPT}?
+\newblock {\em arXiv preprint arXiv:2212.14548}, 2022.
+
+\bibitem{zhang2023lccot}
+Bowen Zhang, Daijun Ding, Liwen Jing, and Hu~Huang.
+\newblock A logically consistent chain-of-thought approach for stance
+  detection.
+\newblock {\em arXiv preprint arXiv:2312.16054}, 2023.
+
+\bibitem{zhang2023cotstance}
+Bowen Zhang, Xianghua Fu, Daijun Ding, Hu~Huang, Yangyang Li, and Liwen Jing.
+\newblock Investigating chain-of-thought with {ChatGPT} for stance detection on
+  social media.
+\newblock {\em arXiv preprint arXiv:2304.03087}, 2023.
+
+\end{thebibliography}

@@ -1,0 +1,15 @@
+{
+  "F_AVG": 0.8787,
+  "Q_AVG": 1.0,
+  "n": 48,
+  "Favor_F1": 0.8824,
+  "Against_F1": 0.875,
+  "None_F1": 0.8,
+  "accuracy": 0.8542,
+  "schema_valid_rate": 1.0,
+  "experiment": "SJ-1",
+  "backend": "mock",
+  "input": "/workspace/jev-stance/data/fixtures/synthetic_stance.jsonl",
+  "timestamp": "2026-10-24T02:41:42+08:00",
+  "timezone": "Asia/Shanghai"
+}

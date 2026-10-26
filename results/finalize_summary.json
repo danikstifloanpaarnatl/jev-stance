@@ -1,0 +1,9 @@
+{
+  "semeval_F_AVG": 0.7854,
+  "vast_F_macro3": 0.8327,
+  "vast_n": 1460,
+  "compile": "pdflatex not installed",
+  "paper": "/workspace/jev-stance/paper/paper.tex",
+  "pub_check": "/workspace/jev-stance/notes/PUBLICATION_CHECK.md",
+  "finished_at": "2026-10-24 06:56 Asia/Shanghai"
+}

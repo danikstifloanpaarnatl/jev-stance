@@ -1,0 +1,16 @@
+{
+  "experiment": "SJ-1-smoke",
+  "dataset": "synthetic_stance_fixture",
+  "backend": "mock",
+  "F_AVG": 0.8786764705882353,
+  "Q_AVG": 1.0,
+  "n": 48,
+  "Favor_F1": 0.8823529411764706,
+  "Against_F1": 0.8750000000000001,
+  "None_F1": 0.8,
+  "accuracy": 0.8541666666666666,
+  "schema_valid_rate": 1.0,
+  "timestamp": "2026-10-24T02:43:08+08:00",
+  "timezone": "Asia/Shanghai",
+  "note": "[[SMOKE-FIXTURE]] offline mock on bundled synthetic data \u2014 NOT SemEval/VAST"
+}

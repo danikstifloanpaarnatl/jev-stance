@@ -1,0 +1,21 @@
+{
+  "F_AVG": 0.7854,
+  "Q_AVG": 2.0,
+  "n": 1249,
+  "Favor_F1": 0.7643,
+  "Against_F1": 0.8066,
+  "None_F1": 0.6529,
+  "accuracy": 0.7622,
+  "schema_valid_rate": 1.0,
+  "F_macro3": 0.7412,
+  "experiment": "SJ-1-semeval2016-test",
+  "backend": "api",
+  "input": "data/processed/semeval2016_test.jsonl",
+  "rounds": 1,
+  "batch_size": 4,
+  "primary_metric": "F_AVG",
+  "primary_score": 0.7854,
+  "complete": true,
+  "timestamp": "2026-10-24T05:11:30+08:00",
+  "timezone": "Asia/Shanghai"
+}

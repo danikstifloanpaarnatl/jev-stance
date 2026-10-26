@@ -1,0 +1,42 @@
+# Secrets — never commit
+secrets/
+.env
+.env.*
+*.pem
+*.key
+
+# Datasets (license / redistribution)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Paper aux (keep .bbl for arXiv)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+
+# Large / sensitive result dumps
+results/*_preds.jsonl
+results/*.log
+results/*probe*.json
+results/mimo_*.json
+results/stancejev_sop.json

@@ -1,0 +1,16 @@
+{"id": "favor_00", "text": "We must cut emissions now — renewables are the only path forward.", "target": "Climate Action", "label": "Favor"}
+{"id": "favor_01", "text": "Solar and wind already beat coal on cost. Expand them.", "target": "Climate Action", "label": "Favor"}
+{"id": "favor_02", "text": "Proud feminist — equal pay and bodily autonomy are non-negotiable.", "target": "Feminist Movement", "label": "Favor"}
+{"id": "favor_03", "text": "Yes to #MeToo: survivors deserve belief and justice.", "target": "Feminist Movement", "label": "Favor"}
+{"id": "favor_04", "text": "Vaccines save lives; get your booster.", "target": "COVID-19 Vaccines", "label": "Favor"}
+{"id": "favor_05", "text": "mRNA shots were a scientific triumph against the pandemic.", "target": "COVID-19 Vaccines", "label": "Favor"}
+{"id": "against_00", "text": "Climate hysteria is a tax grab. CO2 is plant food.", "target": "Climate Action", "label": "Against"}
+{"id": "against_01", "text": "Net-zero will bankrupt working families.", "target": "Climate Action", "label": "Against"}
+{"id": "against_02", "text": "Feminism today is man-hating nonsense.", "target": "Feminist Movement", "label": "Against"}
+{"id": "against_03", "text": "The Feminist Movement ruined dating and families.", "target": "Feminist Movement", "label": "Against"}
+{"id": "against_04", "text": "Vaccines are rushed experiments — I refuse the shot.", "target": "COVID-19 Vaccines", "label": "Against"}
+{"id": "against_05", "text": "Natural immunity beats COVID-19 Vaccines every time.", "target": "COVID-19 Vaccines", "label": "Against"}
+{"id": "none_00", "text": "Just had coffee and finished a great book.", "target": "Climate Action", "label": "None"}
+{"id": "none_01", "text": "Traffic on the 101 is awful today.", "target": "Feminist Movement", "label": "None"}
+{"id": "none_02", "text": "Looking forward to the weekend hike.", "target": "COVID-19 Vaccines", "label": "None"}
+{"id": "none_03", "text": "Anyone know a good pasta recipe?", "target": "Gun Control", "label": "None"}

@@ -1,0 +1,20 @@
+{
+  "F_AVG": 0.3027,
+  "Q_AVG": 1.0,
+  "n": 1460,
+  "Favor_F1": 0.3002,
+  "Against_F1": 0.3051,
+  "None_F1": 0.3805,
+  "accuracy": 0.3342,
+  "schema_valid_rate": 1.0,
+  "F_macro3": 0.3286,
+  "experiment": "SJ-1-vast-mock",
+  "backend": "mock",
+  "input": "data/processed/vast_zero_shot_test.jsonl",
+  "rounds": 1,
+  "batch_size": 8,
+  "primary_metric": "F_macro3",
+  "primary_score": 0.3286,
+  "timestamp": "2026-10-24T03:55:29+08:00",
+  "timezone": "Asia/Shanghai"
+}
